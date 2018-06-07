@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Loginsamaple.Signup">
+    <ContentPage.Content>
+    <StackLayout Padding="50" Orientation="Vertical">
+
+
+
+            <Entry 
+                x:Name="FirstName"
+                Placeholder="First Name"
+                   WidthRequest="150"></Entry>
+            <Entry x:Name="LastName"
+                   Placeholder="Last Name"
+                   WidthRequest="150"></Entry>
+            <Entry x:Name="Email"
+                   Placeholder="Email Address"
+                   WidthRequest="150"></Entry>
+
+             <Entry 
+                x:Name="Location"
+                Placeholder="Your Location"
+                   WidthRequest="150"></Entry>
+            <Entry x:Name="Client"
+                   Placeholder="Your Client"
+                   WidthRequest="150"></Entry>
+            <Entry x:Name="Vendor"
+                   Placeholder="Your Vendor"
+                   WidthRequest="150"></Entry>
+            
+            <StackLayout Orientation="Horizontal">
+
+         
+
+                </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+
+            <Button BackgroundColor="Black" 
+                    TextColor="White"
+                    Text="Success"
+                    Clicked="SubmitSuccess"></Button>
+
+            <Button BackgroundColor="Black"
+                    TextColor="White"
+                    Text="Cancel"
+                    Clicked="SubmitCancel"></Button>
+
+            </StackLayout>
+                    
+
+            
+        </StackLayout>
+        
+    </ContentPage.Content>
+</ContentPage>

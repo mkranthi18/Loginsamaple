@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{7F3736EC-D50D-437F-81D5-E5C03F1F8DC2}|Default">
+  <MonoDevelop.Ide.ItemProperties.Loginsamaple FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Loginsamaple/DataAccess.cs">
+    <Files>
+      <File FileName="Loginsamaple/LoginPage.xaml" Line="23" Column="19" />
+      <File FileName="Loginsamaple/LoginsamaplePage.xaml" Line="5" Column="1" />
+      <File FileName="Loginsamaple/App.xaml.cs" Line="24" Column="1" />
+      <File FileName="Loginsamaple/LoginsamaplePage.xaml.cs" Line="12" Column="2" />
+      <File FileName="Loginsamaple/MyPage.xaml" Line="27" Column="1" />
+      <File FileName="Loginsamaple/MyPage.xaml.cs" Line="36" Column="51" />
+      <File FileName="Loginsamaple/Signup.xaml" Line="56" Column="1" />
+      <File FileName="Loginsamaple/Signup.xaml.cs" Line="27" Column="38" />
+      <File FileName="Loginsamaple/App.xaml" Line="7" Column="1" />
+      <File FileName="Loginsamaple/Success.xaml" Line="39" Column="1" />
+      <File FileName="Loginsamaple/Success.xaml.cs" Line="1" Column="1" />
+      <File FileName="Droid/obj/Debug/Loginsamaple.Droid.Success.xaml.g.cs" Line="23" Column="1" />
+      <File FileName="Droid/SqliteService.cs" Line="29" Column="6" />
+      <File FileName="Loginsamaple/Employee.cs" Line="27" Column="23" />
+      <File FileName="Loginsamaple/DataAccess.cs" Line="32" Column="1" />
+      <File FileName="Loginsamaple/EmptyClass.cs" Line="1" Column="1" />
+      <File FileName="Loginsamaple/TestData.cs" Line="1" Column="1" />
+      <File FileName="Droid/Loginsamaple.Droid.csproj" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Loginsamaple.Droid PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Bobby/Projects/Loginsamaple/Loginsamaple/DataAccess.cs" relfile="Loginsamaple/DataAccess.cs" line="31" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <DisabledProjects>
+    <String>iOS/Loginsamaple.iOS.csproj</String>
+  </DisabledProjects>
+</Properties>
